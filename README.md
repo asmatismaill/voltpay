@@ -1,4 +1,4 @@
-<img width="1365" height="651" alt="image" src="https://github.com/user-attachments/assets/76f642b6-7549-4186-975b-9019b3b28fc2" /><img width="1350" height="654" alt="image" src="https://github.com/user-attachments/assets/d3e3345d-940b-466c-8d6b-45c0d7f888e1" /># VoltPay (Aplikasi Pembayaran Listrik Pasca Bayar)
+# VoltPay (Aplikasi Pembayaran Listrik Pasca Bayar)
 
 VoltPay adalah aplikasi web modern untuk pembayaran listrik pasca bayar, dirancang agar mudah digunakan, responsif, dan aman. UI telah sepenuhnya dimigrasi ke Tailwind CSS untuk tampilan yang lebih fresh dan user friendly.
 
