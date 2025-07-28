@@ -54,7 +54,7 @@ VoltPay adalah aplikasi web modern untuk pembayaran listrik pasca bayar, diranca
 
 ## Catatan
 
-- Semua tampilan telah dimigrasi ke Tailwind CSS untuk UI yang lebih modern dan konsisten.
+- Aplikasi ini merupakan aplikasi Setroom-Payment yang sudah dimigrasi ke PHP5. Dan, semua tampilan telah dimigrasi ke Tailwind CSS untuk UI yang lebih modern dan konsisten.
 - Fitur CRUD, pencarian, dan filter tersedia di semua modul utama.
 - Pastikan PHP dan MySQL aktif di XAMPP sebelum menjalankan aplikasi.
 
