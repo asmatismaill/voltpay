@@ -59,3 +59,6 @@ VoltPay adalah aplikasi web modern untuk pembayaran listrik pasca bayar, diranca
 - Pastikan PHP dan MySQL aktif di XAMPP sebelum menjalankan aplikasi.
 
 ---
+## Credit
+- Email - programzidun@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ramdanzidun/) - Muhammad Ramdan
